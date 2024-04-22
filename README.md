@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wyllanalytics" alt="wyllanalytics" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning with Python**
+- 🌱 I’m currently learning **Mobile App Development**
 
-- 👯 I’m looking to collaborate on **Data & Web Analytics**
+- 👯 I’m looking to collaborate on **Open Sources Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WyllAnalytics](https://github.com/WyllAnalytics)
 
 - 📝 I regularly write articles on [https://medium.com/@godswyllele19](https://medium.com/@godswyllele19)
 
-- 💬 Ask me about **Data Analysis,Visualization,and Statistical Analysis**
+- 💬 Ask me about **Software Engineering, AI & ML, IOT, Cloud, Mobile App Development**
 
 - 📫 How to reach me **godswyllele19@gmail.com**
 
