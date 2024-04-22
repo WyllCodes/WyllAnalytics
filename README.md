@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mobile App Development**
 
-- 👯 I’m looking to collaborate on **Open Sources Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects, Startups**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WyllAnalytics](https://github.com/WyllAnalytics)
 
